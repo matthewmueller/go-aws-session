@@ -1,4 +1,4 @@
-package aws_session
+package session
 
 import (
 	"github.com/aws/aws-sdk-go/aws"

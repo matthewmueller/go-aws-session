@@ -1,1 +1,0 @@
-package aws_session_test
